@@ -7,7 +7,7 @@
 	the corresponding y = mx + q
 
 	NOTE: notice the precision of the output floating number. That could be
-	an issue in the fit (is no precision is set, the fit does not converge)
+	an issue in the fit (if no precision is set, the fit does not converge)
 */
 int main(int argc,char** argv){
 
